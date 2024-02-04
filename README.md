@@ -10,8 +10,8 @@ I have implemented the dashboard using JavaScript and the D3.js library, showcas
 
 # Deployment
 
-[Here is a link to the dashboard](https://sophiatun.github.io/belly-button-challenge)
+Here is a link to the dashboard [https://sophiatun.github.io/belly-button-challenge]
 
 # References
 
-Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: (http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site).
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: (http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links) to an external site.
