@@ -2,7 +2,7 @@
 
 ## Deployment Link
 
-(https://sophiatun.github.io/belly-button-challenge/)
+https://sophiatun.github.io/belly-button-challenge/
 
 # Background:
 
