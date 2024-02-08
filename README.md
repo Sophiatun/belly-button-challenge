@@ -1,5 +1,9 @@
 ## belly-button-challenge
 
+## Deployment Link
+
+(https://sophiatun.github.io/belly-button-challenge/)
+
 # Background:
 
 In this assignment, I have created an interactive dashboard for exploring the Belly Button Biodiversity dataset1. This dataset catalogs the diverse microbial species, known as operational taxonomic units (OTUs), that inhabit human navels.
